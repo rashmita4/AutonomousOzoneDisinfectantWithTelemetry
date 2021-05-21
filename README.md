@@ -1,4 +1,5 @@
 # AutonomousOzoneDisinfectantWithTelemetry
+
 The Covid-19 pandemic has made us realize the importance of disinfection and sanitation. Need of the hour is a disinfectant that is reliable, efficient and potent. Ozone is effective in deactivating various bacteria, fungi ,molds and viruses. A device that can harness this property of ozone and is both cost effective and time efficient will have various applications in society.  The proposed system is an Autonomous Ozone Disinfectant With Telemetry which uses an ozone generator for disinfection. It is a remotely controlled system that provides real-time ozone concentration values and remote switching through a mobile application as well.
 # Hardware and Software Requirements
 Programming Environment: Arduino IDE( Libraries used: Blynk and ESP8266)
@@ -18,5 +19,6 @@ The user has a mobile application called Blynk installed on their phone. Now  we
 4.Displaying a message once it is safe to enter the room.
 A message is displayed on the mobile app, in user friendly settings stating that it is now safe to enter the room. 
 
-
 # Data Flow Diagram
+![flowchart](https://user-images.githubusercontent.com/84565973/119112805-1c47af80-ba42-11eb-8a2f-e0a64ee67bd8.PNG)
+
