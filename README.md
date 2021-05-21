@@ -2,9 +2,10 @@
 
 The Covid-19 pandemic has made us realize the importance of disinfection and sanitation. Need of the hour is a disinfectant that is reliable, efficient and potent. Ozone is effective in deactivating various bacteria, fungi ,molds and viruses. A device that can harness this property of ozone and is both cost effective and time efficient will have various applications in society.  The proposed system is an Autonomous Ozone Disinfectant With Telemetry which uses an ozone generator for disinfection. It is a remotely controlled system that provides real-time ozone concentration values and remote switching through a mobile application as well.
 # Hardware and Software Requirements
-Programming Environment: Arduino IDE( Libraries used: Blynk and ESP8266)
-Mobile application development: Blynk application
-Hardware Components: 12g/hr ozone generator, MQ131 ozone sensor, 12V DC brushless fans, 5V Relay module, NodeMCU, power supply, breadboard and connecting wires.
+
+1. Hardware Components: 12g/hr ozone generator, MQ131 ozone sensor, 12V DC brushless fans, 5V Relay module, NodeMCU, power supply, breadboard and connecting wires.
+2. Programming Environment: Arduino IDE( Libraries used: Blynk and ESP8266)
+3. Mobile application development: Blynk application
 
 # Process Flow
 Following is the algorithm which outlines the working of our project. 
