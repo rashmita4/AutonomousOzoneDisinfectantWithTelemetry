@@ -7,16 +7,19 @@ Mobile application development: Blynk application
 Hardware Components: 12g/hr ozone generator, MQ131 ozone sensor, 12V DC brushless fans, 5V Relay module, NodeMCU, power supply, breadboard and connecting wires.
 
 # Process Flow
-Following is the algorithm which outlines the working of our project.  
-1.Deciding the concentration of ozone required for the process of disinfection.
+Following is the algorithm which outlines the working of our project. 
+
+1. Deciding the concentration of ozone required for the process of disinfection.
 The two important values in the algorithm are:
-1) The ozone concentration which is necessary for disinfection which is 0.3ppm.
-2) Ozone concentration which is safe for humans, animals and plants which is 0.02ppm.
-2.Necessary conditions to carry out the process.
-The ozone disinfectant is placed in a closed room void of any humans, pets and plants
-3.Remotely accessing the device with the help of Blynk application.
-The user has a mobile application called Blynk installed on their phone. Now  we switch on the  ozone generator, ozone sensor and fan through the app. The ozone generator generates ozone gas and the sensor monitors it at predefined intervals. The fan maintains the circulation in the room
-4.Displaying a message once it is safe to enter the room.
+The ozone concentration which is necessary for disinfection which is 0.3ppm and Ozone concentration which is safe for humans, animals and plants which is 0.02ppm.
+
+2. Necessary conditions to carry out the process.
+The ozone disinfectant is placed in a closed room void of any humans, pets and plants.
+
+3. Remotely accessing the device with the help of Blynk application.
+The user has a mobile application called Blynk installed on their phone. Now  we switch on the  ozone generator, ozone sensor and fan through the app. The ozone generator generates ozone gas and the sensor monitors it at predefined intervals. The fan maintains the circulation in the room.
+
+4. Displaying a message once it is safe to enter the room.
 A message is displayed on the mobile app, in user friendly settings stating that it is now safe to enter the room. 
 
 # Data Flow Diagram
